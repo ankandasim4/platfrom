@@ -15,5 +15,9 @@ class Messages
     {
         return "With love from Platform.sh";
     }
+    public function subject() : string
+    {
+        return "With love from Platform.sh";
+    }
 
 }

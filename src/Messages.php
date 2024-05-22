@@ -17,7 +17,7 @@ class Messages
     }
     public function subject() : string
     {
-        return "With love from Platform.sh";
+        return "testing";
     }
 
 }
